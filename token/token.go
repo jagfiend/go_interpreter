@@ -41,7 +41,7 @@ const (
 
 	// keywords
 	FUNCTION = "FUNCTION"
-	LET = "FUNCTION"
+	LET = "LET"
 	TRUE = "TRUE"
 	FALSE = "FALSE"
 	IF = "IF"
